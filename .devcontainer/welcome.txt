@@ -1,0 +1,5 @@
+👋 Welcome to Codespaces! Wait a few seconds for the Python requirements to install.
+
+📝 In the meantime, begin following the instructions in the README.
+
+🤔 If you have questions, use the GitHub Copilot "Chat" extension along the left panel (note: you may need to click the ellipses (...) to see the extension)
