@@ -16,8 +16,11 @@ jobs:
       uses: actions/checkout@v4
     - name: Hello world test
       id: hello-world-test
-      uses: education/autograding-python-grader@v1
+      uses: education/autograding-command-grader@v1
       with:
+        test-name: Hello world test
+        setup-command: sudo -H pip3 install pytest
+        command: pytest
         timeout: 5
         max-score: 5
     - name: Autograding Reporter
