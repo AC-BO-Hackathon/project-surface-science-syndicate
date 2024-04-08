@@ -1,6 +1,6 @@
 # BayBE One more Time - Exploring Corrosion Inhibitors for Materials Design 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kIRxGdwmLSY?si=z6TO0A8veGt9uF6y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+![](https://youtu.be/kIRxGdwmLSY?si=BVYsl7kGDRsUhewH)
 
 This project focuses on exploring the capabilities of Bayesian optimization, specifically employing BayBE, in the discovery of novel corrosion inhibitors for materials design. Initially, we work with a randomly chosen subset from a comprehensive database of electrochemical responses of small organic molecules for aluminum alloys. Our goal is to assess how Bayesian optimization can speed up the screening process across the design space to identify promising compounds. We compare different strategies for incorporating chemical information, while optimizing the experimental parameters with respect to the inhibitive performance of the screened compounds. Finally, we explore the potential of transfer learning to accelerate corrosion inhibitor discovery for other base materials as well.
 
