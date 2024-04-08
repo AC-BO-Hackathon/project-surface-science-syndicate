@@ -6,6 +6,6 @@ This project focuses on exploring the capabilities of Bayesian optimization, spe
 
 
 ## References
-- Galvão, T.L.P., Ferreira, I., Kuznetsova, A. et al. CORDATA: an open data management web application to select corrosion inhibitors. npj Mater Degrad 6, 48 (2022).
-- Özkan, C., Sahlmann, L., Feiler, C. et al. Laying the experimental foundation for corrosion inhibitor discovery through machine learning. npj Mater Degrad 8, 21 (2024).
-- Würger, T., Mei, D., Vaghefinazari, B. et al. Exploring structure-property relationships in magnesium dissolution modulators. npj Mater Degrad 5, 2 (2021).
+- Galvão, T.L.P., Ferreira, I., Kuznetsova, A. _et al._ [CORDATA: an open data management web application to select corrosion inhibitors](https://doi.org/10.1038/s41529-022-00259-9). _npj Mater Degrad_ **6**, 48 (2022).
+- Özkan, C., Sahlmann, L., Feiler, C. _et al._ [Laying the experimental foundation for corrosion inhibitor discovery through machine learning](https://doi.org/10.1038/s41529-024-00435-z). _npj Mater Degrad_ **8**, 21 (2024).
+- Würger, T., Mei, D., Vaghefinazari, B. _et al._ [Exploring structure-property relationships in magnesium dissolution modulators](https://doi.org/10.1038/s41529-020-00148-z). _npj Mater Degrad_ **5**, 2 (2021).
